@@ -1,0 +1,37 @@
+[website]
+"caster documentation" = "https://caster.readthedocs.io/en/latest/"
+"dragonfly documentation" = "https://dragonfly2.readthedocs.io/en/latest/"
+"dragonfly gitter" = "https://gitter.im/dictation-toolbox/dragonfly"
+"caster gitter" = "https://gitter.im/dictation-toolbox/Caster"
+"caster discord" = "https://discord.gg/9eAAsCJ"
+google = "https://www.google.com"
+
+[folder]
+"libraries | home" = "/Users/morgan"
+"my pictures" = "/Users/morgan/Pictures"
+"my documents" = "/Users/morgan/Documents"
+"caster source" = "/Users/morgan/src/Caster"
+"caster user" = "/Users/morgan/Library/Application Support/caster"
+"caster hooks" = "/Users/morgan/Library/Application Support/caster/caster_user_content/hooks"
+"caster transformers" = "/Users/morgan/Library/Application Support/caster/caster_user_content/transformers"
+"caster rules" = "/Users/morgan/Library/Application Support/caster/caster_user_content/rules"
+"caster data" = "/Users/morgan/Library/Application Support/caster/data"
+"caster settings" = "/Users/morgan/Library/Application Support/caster/settings"
+"sick you lee" = "/Users/morgan/Library/Application Support/caster/sikuli"
+
+[program]
+notepad = "C:\\Windows\\notepad.exe"
+
+[file]
+"caster settings file" = "/Users/morgan/Library/Application Support/caster/settings/settings.toml"
+"caster rules file" = "/Users/morgan/Library/Application Support/caster/settings/rules.toml"
+"caster bring me file" = "/Users/morgan/Library/Application Support/caster/settings/sm_bringme.toml"
+"caster hooks file" = "/Users/morgan/Library/Application Support/caster/settings/hooks.toml"
+"caster companion file" = "/Users/morgan/Library/Application Support/caster/settings/companion_config.toml"
+"caster transformers file" = "/Users/morgan/Library/Application Support/caster/settings/transformers.toml"
+"caster alias file" = "/Users/morgan/Library/Application Support/caster/data/sm_aliases.toml"
+"caster chain aliases file" = "/Users/morgan/Library/Application Support/caster/data/sm_chain_aliases.toml"
+"caster clipboard file" = "/Users/morgan/Library/Application Support/caster/data/clipboard.json"
+"caster record from history file" = "/Users/morgan/Library/Application Support/caster/data/sm_history.toml"
+"caster log file" = "/Users/morgan/Library/Application Support/caster/log.txt"
+"caster transformer file" = "/Users/morgan/Library/Application Support/caster/transformers/words.txt"
